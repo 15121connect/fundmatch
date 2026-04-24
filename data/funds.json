@@ -1,5 +1,339 @@
 [
   {
+    "id": "canadian-foundations",
+    "name": "Canadian Foundations and Corporate Giving",
+    "provider": "Multiple Canadian Foundations",
+    "type": "grant",
+    "description": "Aggregated funding opportunities from leading Canadian foundations and corporations supporting climate action, community development, and social innovation.",
+    "focus_areas": [
+      "climate action",
+      "community development",
+      "social innovation",
+      "sustainability"
+    ],
+    "award_min": 10000,
+    "award_max": 1000000,
+    "deadline": null,
+    "eligibility": [
+      "nonprofits",
+      "charities",
+      "community organizations",
+      "social enterprises"
+    ],
+    "contact_email": "grants@imaginecanada.ca",
+    "contact_web": "imaginecanada.ca",
+    "source_url": "https://www.imaginecanada.ca/grants-and-funding",
+    "country": "Canada",
+    "active": true,
+    "last_verified": "2026-04-24"
+  },
+  {
+    "id": "climate-action-corp",
+    "name": "Climate Action Corps Funding",
+    "provider": "Climate Action Network",
+    "type": "grant",
+    "description": "Grants for community-based climate mitigation and adaptation projects including renewable energy, sustainable transportation, and ecosystem restoration.",
+    "focus_areas": [
+      "climate action",
+      "renewable energy",
+      "sustainability",
+      "community resilience"
+    ],
+    "award_min": 50000,
+    "award_max": 750000,
+    "deadline": "2026-08-22",
+    "eligibility": [
+      "nonprofits",
+      "community organizations",
+      "Indigenous communities"
+    ],
+    "contact_email": "grants@climateactioncorps.org",
+    "contact_web": "climateactioncorps.org",
+    "source_url": "https://climateactioncorps.org",
+    "active": true,
+    "last_verified": "2026-04-24",
+    "country": "Canada"
+  },
+  {
+    "id": "cmhc-ahf",
+    "name": "Affordable Housing Fund",
+    "provider": "CMHC",
+    "type": "loan",
+    "description": "Low-interest loans for construction and renovation of affordable rental housing in underserved communities across Canada. Projects must maintain affordability for a minimum of 30 years. Supports new construction, acquisition, and preservation of affordable units for low- and moderate-income households.",
+    "focus_areas": [
+      "housing",
+      "affordable housing",
+      "rental housing",
+      "low income",
+      "construction",
+      "community"
+    ],
+    "award_min": 1000000,
+    "award_max": 25000000,
+    "deadline": "2026-07-15",
+    "eligibility": [
+      "non-profit housing provider",
+      "30-year affordability commitment",
+      "Canadian"
+    ],
+    "contact_email": "affordable@cmhc-schl.gc.ca",
+    "contact_web": "cmhc-schl.gc.ca/ahf",
+    "source_url": "https://www.cmhc-schl.gc.ca/en/professionals/project-funding-and-mortgage-financing/funding/affordable-housing-fund",
+    "active": true,
+    "last_verified": "2026-04-21",
+    "country": "Canada"
+  },
+  {
+    "id": "doe-clean-mfg",
+    "name": "DOE Advanced Manufacturing and Clean Energy",
+    "provider": "U.S. Department of Energy",
+    "type": "grant",
+    "description": "Funding for manufacturing facilities producing clean energy technologies, battery components, heat pumps, and other zero-carbon equipment.",
+    "focus_areas": [
+      "clean energy",
+      "manufacturing",
+      "emissions reduction",
+      "advanced technology"
+    ],
+    "award_min": 100000,
+    "award_max": 3000000,
+    "deadline": "2026-10-21",
+    "eligibility": [
+      "manufacturers",
+      "businesses",
+      "research institutions"
+    ],
+    "contact_email": "manufacturing@energy.gov",
+    "contact_web": "energy.gov",
+    "source_url": "https://www.energy.gov/manufacturing",
+    "active": true,
+    "last_verified": "2026-04-24",
+    "country": "US"
+  },
+  {
+    "id": "ec-ccai",
+    "name": "Canada Climate Action Incentives",
+    "provider": "Environment and Climate Change Canada",
+    "type": "rebate",
+    "description": "Rebates and incentives for households and businesses to switch to clean energy, including heat pumps, electric vehicles, and home energy audits.",
+    "focus_areas": [
+      "clean energy",
+      "emissions reduction",
+      "climate action",
+      "energy efficiency"
+    ],
+    "award_min": 1000,
+    "award_max": 50000,
+    "deadline": null,
+    "eligibility": [
+      "households",
+      "businesses",
+      "Canadian residents"
+    ],
+    "contact_email": "climateaction@canada.ca",
+    "contact_web": "canada.ca",
+    "source_url": "https://www.canada.ca/en/services/environment/weather/climatechange/climate-action.html",
+    "country": "Canada",
+    "active": true,
+    "last_verified": "2026-04-24"
+  },
+  {
+    "id": "eccc-lcef",
+    "name": "Low Carbon Economy Fund",
+    "provider": "Environment and Climate Change Canada",
+    "type": "grant",
+    "description": "Supports projects that help Canada meet its Paris Agreement targets through energy efficiency improvements and clean fuel adoption. Eligible activities include industrial energy efficiency, clean technology deployment, and community-scale renewable energy. Projects must demonstrate measurable GHG reductions.",
+    "focus_areas": [
+      "clean energy",
+      "emissions reduction",
+      "sustainability",
+      "Paris Agreement",
+      "energy efficiency",
+      "renewable energy"
+    ],
+    "award_min": 50000,
+    "award_max": 500000,
+    "deadline": "2026-08-30",
+    "eligibility": [
+      "registered Canadian organization",
+      "minimum 20% GHG reduction",
+      "project duration under 4 years"
+    ],
+    "contact_email": "ec.lcef-fefa.ec@canada.ca",
+    "contact_web": "canada.ca/lcef",
+    "source_url": "https://www.canada.ca/en/environment-climate-change/services/low-carbon-economy-fund.html",
+    "active": true,
+    "last_verified": "2026-04-21",
+    "country": "Canada"
+  },
+  {
+    "id": "epa-water-quality",
+    "name": "EPA Water Quality Protection and Resilience",
+    "provider": "Environmental Protection Agency",
+    "type": "grant",
+    "description": "Competitive grants for water quality improvement, stormwater management, and sustainable water infrastructure projects.",
+    "focus_areas": [
+      "water quality",
+      "environment",
+      "sustainability",
+      "infrastructure"
+    ],
+    "award_min": 25000,
+    "award_max": 500000,
+    "deadline": "2026-07-23",
+    "eligibility": [
+      "municipalities",
+      "water utilities",
+      "nonprofits",
+      "universities"
+    ],
+    "contact_email": "water-grants@epa.gov",
+    "contact_web": "epa.gov",
+    "source_url": "https://www.epa.gov/waterfinancialsupport",
+    "active": true,
+    "last_verified": "2026-04-24",
+    "country": "US"
+  },
+  {
+    "id": "feddev-swo",
+    "name": "Federal Economic Development for Southwestern Ontario",
+    "provider": "Federal Economic Development Agency for Southern Ontario",
+    "type": "grant",
+    "description": "Regional grants for economic development, business innovation, and community projects in Southwestern Ontario.",
+    "focus_areas": [
+      "economic development",
+      "innovation",
+      "regional development"
+    ],
+    "award_min": 100000,
+    "award_max": 1500000,
+    "deadline": "2026-09-21",
+    "eligibility": [
+      "nonprofits",
+      "SMEs",
+      "municipalities",
+      "regional organizations"
+    ],
+    "contact_email": "info@feddev.gc.ca",
+    "contact_web": "feddev.gc.ca",
+    "source_url": "https://www.feddevontario.gc.ca/eic/site/723.nsf/eng/home",
+    "country": "Canada",
+    "active": true,
+    "last_verified": "2026-04-24"
+  },
+  {
+    "id": "food-security-fund",
+    "name": "Food Security and Sustainable Agriculture Fund",
+    "provider": "Global Food Security Initiative",
+    "type": "grant",
+    "description": "Funding for projects addressing food security, sustainable agriculture, community food systems, and Indigenous food sovereignty.",
+    "focus_areas": [
+      "food security",
+      "agriculture",
+      "sustainability",
+      "Indigenous issues",
+      "community development"
+    ],
+    "award_min": 50000,
+    "award_max": 500000,
+    "deadline": "2026-10-21",
+    "eligibility": [
+      "nonprofits",
+      "Indigenous organizations",
+      "agricultural organizations",
+      "community groups"
+    ],
+    "contact_email": "grants@foodsecurityfund.org",
+    "contact_web": "foodsecurityfund.org",
+    "source_url": "https://www.foodsecurityfund.org",
+    "active": true,
+    "last_verified": "2026-04-24",
+    "country": "Canada/US"
+  },
+  {
+    "id": "green-bank-financing",
+    "name": "Green Bank Clean Energy Financing",
+    "provider": "Coalition of Green Banks",
+    "type": "loan",
+    "description": "Low-interest loans and financing for clean energy projects including solar installations, energy efficiency retrofits, and renewable energy infrastructure.",
+    "focus_areas": [
+      "clean energy",
+      "renewable energy",
+      "energy efficiency",
+      "emissions reduction"
+    ],
+    "award_min": 100000,
+    "award_max": 5000000,
+    "deadline": null,
+    "eligibility": [
+      "businesses",
+      "nonprofits",
+      "municipalities",
+      "households"
+    ],
+    "contact_email": "financing@greenbanks.org",
+    "contact_web": "greenbanks.org",
+    "source_url": "https://www.greenbanks.org",
+    "active": true,
+    "last_verified": "2026-04-24",
+    "country": "US"
+  },
+  {
+    "id": "housing-affordability-fund",
+    "name": "Affordable Housing and Justice Fund",
+    "provider": "National Housing Coalition",
+    "type": "grant",
+    "description": "Grants for affordable housing development, retrofit programs, and housing justice initiatives supporting low-income communities.",
+    "focus_areas": [
+      "housing",
+      "social equity",
+      "community development",
+      "sustainability"
+    ],
+    "award_min": 200000,
+    "award_max": 3000000,
+    "deadline": "2026-07-23",
+    "eligibility": [
+      "nonprofits",
+      "housing organizations",
+      "community development corporations"
+    ],
+    "contact_email": "grants@housingjustice.org",
+    "contact_web": "housingjustice.org",
+    "source_url": "https://www.housingjustice.org",
+    "active": true,
+    "last_verified": "2026-04-24",
+    "country": "US"
+  },
+  {
+    "id": "ised-srd",
+    "name": "Canada Economic Development Grants",
+    "provider": "Innovation, Science and Economic Development Canada",
+    "type": "grant",
+    "description": "Grants for regional economic development projects, including sustainable business initiatives, community development, and innovation hubs.",
+    "focus_areas": [
+      "economic development",
+      "sustainability",
+      "innovation",
+      "community development"
+    ],
+    "award_min": 50000,
+    "award_max": 1000000,
+    "deadline": "2026-08-22",
+    "eligibility": [
+      "nonprofits",
+      "SMEs",
+      "municipalities",
+      "Indigenous organizations"
+    ],
+    "contact_email": "edinfo@ised-isde.gc.ca",
+    "contact_web": "ised-isde.gc.ca",
+    "source_url": "https://www.canada.ca/en/services/business/support/funding.html",
+    "active": true,
+    "last_verified": "2026-04-24",
+    "country": "Canada"
+  },
+  {
     "id": "nrc-cgbf",
     "name": "Canada Green Building Fund",
     "provider": "NRC Canada",
@@ -26,6 +360,119 @@
     "source_url": "https://nrc.gc.ca/en/funding/green-building",
     "active": true,
     "last_verified": "2026-04-21",
+    "country": "Canada"
+  },
+  {
+    "id": "nrc-cgbf-ca",
+    "name": "Canada Green Building Fund",
+    "provider": "National Research Council Canada",
+    "type": "grant",
+    "description": "Supports large-scale retrofits of commercial and multi-unit residential buildings to reduce energy consumption and carbon emissions. Eligible projects include heat pump installation, insulation upgrades, window replacements, and building automation systems.",
+    "focus_areas": [
+      "clean energy",
+      "housing",
+      "retrofits",
+      "emissions reduction",
+      "building efficiency"
+    ],
+    "award_min": 250000,
+    "award_max": 2000000,
+    "deadline": "2026-10-21",
+    "eligibility": [
+      "non-profit",
+      "municipal",
+      "minimum 10 units",
+      "Canadian organization"
+    ],
+    "contact_email": "green-vert@nrc-cnrc.gc.ca",
+    "contact_web": "nrc-cnrc.gc.ca",
+    "source_url": "https://www.nrc-cnrc.gc.ca/eng/solutions/infrastructure/green_buildings_fund.html",
+    "country": "Canada",
+    "active": true,
+    "last_verified": "2026-04-24"
+  },
+  {
+    "id": "nrc-ghr",
+    "name": "Greener Homes Rebate",
+    "provider": "Natural Resources Canada",
+    "type": "rebate",
+    "description": "Rebates for property owners who complete eligible energy-efficiency upgrades including heat pumps, insulation, windows and doors, and solar panels. A pre and post energy audit is required. Rebate amounts vary by measure and unit count. Available on a rolling basis with no fixed deadline.",
+    "focus_areas": [
+      "clean energy",
+      "home retrofit",
+      "energy efficiency",
+      "heat pump",
+      "insulation",
+      "solar"
+    ],
+    "award_min": 250,
+    "award_max": 5600,
+    "deadline": null,
+    "eligibility": [
+      "Canadian property owner",
+      "pre and post energy audit",
+      "licensed contractor"
+    ],
+    "contact_email": "greener-homes@nrcan.gc.ca",
+    "contact_web": "nrcan.gc.ca/greener-homes",
+    "source_url": "https://natural-resources.canada.ca/energy-efficiency/homes/canada-greener-homes-initiative",
+    "active": true,
+    "last_verified": "2026-04-21",
+    "country": "Canada"
+  },
+  {
+    "id": "nserc-dgp",
+    "name": "NSERC Discovery Grants Program",
+    "provider": "Natural Sciences and Engineering Research Council",
+    "type": "grant",
+    "description": "Discovery grants to support ongoing research in natural sciences and engineering, including sustainable energy, clean technology, and environmental applications.",
+    "focus_areas": [
+      "research",
+      "clean energy",
+      "environmental science",
+      "sustainable technology"
+    ],
+    "award_min": 20000,
+    "award_max": 200000,
+    "deadline": "2026-12-01",
+    "eligibility": [
+      "researchers",
+      "universities",
+      "Canadian institutions"
+    ],
+    "contact_email": "discovery@nserc-crsng.gc.ca",
+    "contact_web": "nserc-crsng.gc.ca",
+    "source_url": "https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subventions/DGEP-PSEP_eng.asp",
+    "active": true,
+    "last_verified": "2026-04-24",
+    "country": "Canada"
+  },
+  {
+    "id": "sshrc-crd",
+    "name": "SSHRC Community-Based Research Grants",
+    "provider": "Social Sciences and Humanities Research Council",
+    "type": "grant",
+    "description": "Grants for research on social issues including food security, Indigenous knowledge, housing, and community well-being in partnership with community organizations.",
+    "focus_areas": [
+      "social research",
+      "Indigenous issues",
+      "food security",
+      "community development"
+    ],
+    "award_min": 50000,
+    "award_max": 500000,
+    "deadline": "2026-10-15",
+    "eligibility": [
+      "researchers",
+      "nonprofits",
+      "Indigenous organizations",
+      "community groups"
+    ],
+    "contact_email": "grants@sshrc-crsh.gc.ca",
+    "contact_web": "sshrc-crsh.gc.ca",
+    "source_url": "https://www.sshrc-crsh.gc.ca/funding-financement/index-eng.aspx",
+    "active": true,
+    "last_verified": "2026-04-24",
     "country": "Canada"
   },
   {
@@ -59,343 +506,6 @@
     "country": "Canada"
   },
   {
-    "id": "cmhc-ahf",
-    "name": "Affordable Housing Fund",
-    "provider": "CMHC",
-    "type": "loan",
-    "description": "Low-interest loans for construction and renovation of affordable rental housing in underserved communities across Canada. Projects must maintain affordability for a minimum of 30 years. Supports new construction, acquisition, and preservation of affordable units for low- and moderate-income households.",
-    "focus_areas": [
-      "housing",
-      "affordable housing",
-      "rental housing",
-      "low income",
-      "construction",
-      "community"
-    ],
-    "award_min": 1000000,
-    "award_max": 25000000,
-    "deadline": "2026-07-15",
-    "eligibility": [
-      "non-profit housing provider",
-      "30-year affordability commitment",
-      "Canadian"
-    ],
-    "contact_email": "affordable@cmhc-schl.gc.ca",
-    "contact_web": "cmhc-schl.gc.ca/ahf",
-    "source_url": "https://www.cmhc-schl.gc.ca/en/professionals/project-funding-and-mortgage-financing/funding/affordable-housing-fund",
-    "active": true,
-    "last_verified": "2026-04-21",
-    "country": "Canada"
-  },
-  {
-    "id": "eccc-lcef",
-    "name": "Low Carbon Economy Fund",
-    "provider": "Environment and Climate Change Canada",
-    "type": "grant",
-    "description": "Supports projects that help Canada meet its Paris Agreement targets through energy efficiency improvements and clean fuel adoption. Eligible activities include industrial energy efficiency, clean technology deployment, and community-scale renewable energy. Projects must demonstrate measurable GHG reductions.",
-    "focus_areas": [
-      "clean energy",
-      "emissions reduction",
-      "sustainability",
-      "Paris Agreement",
-      "energy efficiency",
-      "renewable energy"
-    ],
-    "award_min": 50000,
-    "award_max": 500000,
-    "deadline": "2026-08-30",
-    "eligibility": [
-      "registered Canadian organization",
-      "minimum 20% GHG reduction",
-      "project duration under 4 years"
-    ],
-    "contact_email": "ec.lcef-fefa.ec@canada.ca",
-    "contact_web": "canada.ca/lcef",
-    "source_url": "https://www.canada.ca/en/environment-climate-change/services/low-carbon-economy-fund.html",
-    "active": true,
-    "last_verified": "2026-04-21",
-    "country": "Canada"
-  },
-  {
-    "id": "nrc-ghr",
-    "name": "Greener Homes Rebate",
-    "provider": "Natural Resources Canada",
-    "type": "rebate",
-    "description": "Rebates for property owners who complete eligible energy-efficiency upgrades including heat pumps, insulation, windows and doors, and solar panels. A pre and post energy audit is required. Rebate amounts vary by measure and unit count. Available on a rolling basis with no fixed deadline.",
-    "focus_areas": [
-      "clean energy",
-      "home retrofit",
-      "energy efficiency",
-      "heat pump",
-      "insulation",
-      "solar"
-    ],
-    "award_min": 250,
-    "award_max": 5600,
-    "deadline": null,
-    "eligibility": [
-      "Canadian property owner",
-      "pre and post energy audit",
-      "licensed contractor"
-    ],
-    "contact_email": "greener-homes@nrcan.gc.ca",
-    "contact_web": "nrcan.gc.ca/greener-homes",
-    "source_url": "https://natural-resources.canada.ca/energy-efficiency/homes/canada-greener-homes-initiative",
-    "active": true,
-    "last_verified": "2026-04-21",
-    "country": "Canada"
-  },
-  {
-    "id": "usda-re-ee",
-    "name": "USDA Renewable Energy and Energy Efficiency Grants",
-    "provider": "USDA Rural Development",
-    "type": "grant",
-    "description": "Grants and guaranteed loans to support renewable energy development and agricultural energy efficiency improvements for rural residents and businesses. Focus on solar, wind, biogas, and other renewable technologies.",
-    "focus_areas": [
-      "renewable energy",
-      "energy efficiency",
-      "agriculture",
-      "rural development"
-    ],
-    "award_min": 50000,
-    "award_max": 250000,
-    "deadline": "2026-08-15",
-    "eligibility": [
-      "agricultural producers",
-      "rural businesses",
-      "rural cooperatives",
-      "nonprofits"
-    ],
-    "contact_email": "director@rd.usda.gov",
-    "contact_web": "rd.usda.gov",
-    "source_url": "https://www.rd.usda.gov/programs-services/energy-programs",
-    "active": true,
-    "last_verified": "2026-04-21",
-    "country": "US"
-  },
-  {
-    "id": "doe-clean-mfg",
-    "name": "DOE Advanced Manufacturing and Clean Energy",
-    "provider": "U.S. Department of Energy",
-    "type": "grant",
-    "description": "Funding for manufacturing facilities producing clean energy technologies, battery components, heat pumps, and other zero-carbon equipment. Supports domestic manufacturing capacity for the clean energy transition.",
-    "focus_areas": [
-      "clean energy",
-      "manufacturing",
-      "emissions reduction",
-      "advanced technology"
-    ],
-    "award_min": 100000,
-    "award_max": 3000000,
-    "deadline": "2026-10-31",
-    "eligibility": [
-      "manufacturers",
-      "businesses",
-      "research institutions"
-    ],
-    "contact_email": "manufacturing@energy.gov",
-    "contact_web": "energy.gov",
-    "source_url": "https://www.energy.gov/manufacturing",
-    "active": true,
-    "last_verified": "2026-04-21",
-    "country": "US"
-  },
-  {
-    "id": "epa-water-quality",
-    "name": "EPA Water Quality Protection and Resilience",
-    "provider": "Environmental Protection Agency",
-    "type": "grant",
-    "description": "Competitive grants for water quality improvement, stormwater management, and sustainable water infrastructure projects. Supports municipal and nonprofit water initiatives.",
-    "focus_areas": [
-      "water quality",
-      "environment",
-      "sustainability",
-      "infrastructure"
-    ],
-    "award_min": 25000,
-    "award_max": 500000,
-    "deadline": "2026-07-15",
-    "eligibility": [
-      "municipalities",
-      "water utilities",
-      "nonprofits",
-      "universities"
-    ],
-    "contact_email": "water-grants@epa.gov",
-    "contact_web": "epa.gov",
-    "source_url": "https://www.epa.gov/waterfinancialsupport",
-    "active": true,
-    "last_verified": "2026-04-21",
-    "country": "US"
-  },
-  {
-    "id": "ised-srd",
-    "name": "Canada Economic Development Grants",
-    "provider": "Innovation, Science and Economic Development Canada",
-    "type": "grant",
-    "description": "Grants for regional economic development projects, including sustainable business initiatives, community development, and innovation hubs.",
-    "focus_areas": [
-      "economic development",
-      "sustainability",
-      "innovation",
-      "community development"
-    ],
-    "award_min": 50000,
-    "award_max": 1000000,
-    "deadline": "2026-09-15",
-    "eligibility": [
-      "nonprofits",
-      "SMEs",
-      "municipalities",
-      "Indigenous organizations"
-    ],
-    "contact_email": "edinfo@ised-isde.gc.ca",
-    "contact_web": "ised-isde.gc.ca",
-    "source_url": "https://www.canada.ca/en/services/business/support/funding.html",
-    "active": true,
-    "last_verified": "2026-04-21",
-    "country": "Canada"
-  },
-  {
-    "id": "nserc-dgp",
-    "name": "NSERC Discovery Grants Program",
-    "provider": "Natural Sciences and Engineering Research Council",
-    "type": "grant",
-    "description": "Discovery grants to support ongoing research in natural sciences and engineering, including sustainable energy, clean technology, and environmental applications.",
-    "focus_areas": [
-      "research",
-      "clean energy",
-      "environmental science",
-      "sustainable technology"
-    ],
-    "award_min": 20000,
-    "award_max": 200000,
-    "deadline": "2026-12-01",
-    "eligibility": [
-      "researchers",
-      "universities",
-      "Canadian institutions"
-    ],
-    "contact_email": "discovery@nserc-crsng.gc.ca",
-    "contact_web": "nserc-crsng.gc.ca",
-    "source_url": "https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subventions/DGEP-PSEP_eng.asp",
-    "active": true,
-    "last_verified": "2026-04-21",
-    "country": "Canada"
-  },
-  {
-    "id": "sshrc-crd",
-    "name": "SSHRC Community-Based Research Grants",
-    "provider": "Social Sciences and Humanities Research Council",
-    "type": "grant",
-    "description": "Grants for research on social issues including food security, Indigenous knowledge, housing, and community well-being in partnership with community organizations.",
-    "focus_areas": [
-      "social research",
-      "Indigenous issues",
-      "food security",
-      "community development"
-    ],
-    "award_min": 50000,
-    "award_max": 500000,
-    "deadline": "2026-10-15",
-    "eligibility": [
-      "researchers",
-      "nonprofits",
-      "Indigenous organizations",
-      "community groups"
-    ],
-    "contact_email": "grants@sshrc-crsh.gc.ca",
-    "contact_web": "sshrc-crsh.gc.ca",
-    "source_url": "https://www.sshrc-crsh.gc.ca/funding-financement/index-eng.aspx",
-    "active": true,
-    "last_verified": "2026-04-21",
-    "country": "Canada"
-  },
-  {
-    "id": "climate-action-corp",
-    "name": "Climate Action Corps Funding",
-    "provider": "Climate Action Network",
-    "type": "grant",
-    "description": "Grants for community-based climate mitigation and adaptation projects including renewable energy, sustainable transportation, and ecosystem restoration.",
-    "focus_areas": [
-      "climate action",
-      "renewable energy",
-      "sustainability",
-      "community resilience"
-    ],
-    "award_min": 50000,
-    "award_max": 750000,
-    "deadline": "2026-08-30",
-    "eligibility": [
-      "nonprofits",
-      "community organizations",
-      "Indigenous communities"
-    ],
-    "contact_email": "grants@climateactioncorps.org",
-    "contact_web": "climateactioncorps.org",
-    "source_url": "https://climateactioncorps.org",
-    "active": true,
-    "last_verified": "2026-04-21",
-    "country": "Canada"
-  },
-  {
-    "id": "green-bank-financing",
-    "name": "Green Bank Clean Energy Financing",
-    "provider": "Coalition of Green Banks",
-    "type": "loan",
-    "description": "Low-interest loans and financing for clean energy projects including solar installations, energy efficiency retrofits, and renewable energy infrastructure.",
-    "focus_areas": [
-      "clean energy",
-      "renewable energy",
-      "energy efficiency",
-      "emissions reduction"
-    ],
-    "award_min": 100000,
-    "award_max": 5000000,
-    "deadline": null,
-    "eligibility": [
-      "businesses",
-      "nonprofits",
-      "municipalities",
-      "households"
-    ],
-    "contact_email": "financing@greenbanks.org",
-    "contact_web": "greenbanks.org",
-    "source_url": "https://www.greenbanks.org",
-    "active": true,
-    "last_verified": "2026-04-21",
-    "country": "US"
-  },
-  {
-    "id": "food-security-fund",
-    "name": "Food Security and Sustainable Agriculture Fund",
-    "provider": "Global Food Security Initiative",
-    "type": "grant",
-    "description": "Funding for projects addressing food security, sustainable agriculture, community food systems, and Indigenous food sovereignty initiatives.",
-    "focus_areas": [
-      "food security",
-      "agriculture",
-      "sustainability",
-      "Indigenous issues",
-      "community development"
-    ],
-    "award_min": 50000,
-    "award_max": 500000,
-    "deadline": "2026-11-15",
-    "eligibility": [
-      "nonprofits",
-      "Indigenous organizations",
-      "agricultural organizations",
-      "community groups"
-    ],
-    "contact_email": "grants@foodsecurityfund.org",
-    "contact_web": "foodsecurityfund.org",
-    "source_url": "https://www.foodsecurityfund.org",
-    "active": true,
-    "last_verified": "2026-04-21",
-    "country": "Canada/US"
-  },
-  {
     "id": "transit-zero-emission",
     "name": "Zero-Emission Transportation Initiative",
     "provider": "Urban Mobility Foundation",
@@ -410,7 +520,7 @@
     ],
     "award_min": 500000,
     "award_max": 10000000,
-    "deadline": "2026-10-15",
+    "deadline": "2026-09-21",
     "eligibility": [
       "transit agencies",
       "cities",
@@ -421,35 +531,62 @@
     "contact_web": "zerotransport.org",
     "source_url": "https://www.zerotransport.org",
     "active": true,
-    "last_verified": "2026-04-21",
+    "last_verified": "2026-04-24",
     "country": "US"
   },
   {
-    "id": "housing-affordability-fund",
-    "name": "Affordable Housing and Justice Fund",
-    "provider": "National Housing Coalition",
+    "id": "usda-re-ee",
+    "name": "USDA Renewable Energy and Energy Efficiency Grants",
+    "provider": "USDA Rural Development",
     "type": "grant",
-    "description": "Grants for affordable housing development, retrofit programs, and housing justice initiatives supporting low-income communities.",
+    "description": "Grants and guaranteed loans to support renewable energy development and agricultural energy efficiency improvements for rural residents and businesses.",
     "focus_areas": [
-      "housing",
-      "social equity",
-      "community development",
-      "sustainability"
+      "renewable energy",
+      "energy efficiency",
+      "agriculture",
+      "rural development"
     ],
-    "award_min": 200000,
-    "award_max": 3000000,
-    "deadline": "2026-07-30",
+    "award_min": 50000,
+    "award_max": 250000,
+    "deadline": "2026-08-22",
     "eligibility": [
-      "nonprofits",
-      "housing organizations",
-      "community development corporations"
+      "agricultural producers",
+      "rural businesses",
+      "rural cooperatives",
+      "nonprofits"
     ],
-    "contact_email": "grants@housingjustice.org",
-    "contact_web": "housingjustice.org",
-    "source_url": "https://www.housingjustice.org",
+    "contact_email": "director@rd.usda.gov",
+    "contact_web": "rd.usda.gov",
+    "source_url": "https://www.rd.usda.gov/programs-services/energy-programs",
     "active": true,
-    "last_verified": "2026-04-21",
+    "last_verified": "2026-04-24",
     "country": "US"
+  },
+  {
+    "id": "usda-renewable-energy-1",
+    "name": "USDA Renewable Energy and Energy Efficiency",
+    "provider": "USDA",
+    "type": "grant",
+    "description": "Grants for renewable energy projects and agricultural energy efficiency improvements.",
+    "focus_areas": [
+      "renewable energy",
+      "agriculture",
+      "energy efficiency"
+    ],
+    "award_min": 50000,
+    "award_max": 250000,
+    "deadline": "2026-07-23",
+    "eligibility": [
+      "farms",
+      "agricultural organizations",
+      "nonprofits"
+    ],
+    "contact_email": "info@grants.gov",
+    "contact_web": "grants.gov",
+    "source_url": "https://api.grants.gov/opportunities",
+    "country": "US",
+    "active": true,
+    "last_verified": "2026-04-24"
   },
   {
     "id": "water-resilience-fund",
@@ -466,7 +603,7 @@
     ],
     "award_min": 100000,
     "award_max": 2000000,
-    "deadline": "2026-09-30",
+    "deadline": "2026-08-22",
     "eligibility": [
       "water utilities",
       "municipalities",
@@ -477,7 +614,7 @@
     "contact_web": "waterresiliencefund.org",
     "source_url": "https://www.waterresiliencefund.org",
     "active": true,
-    "last_verified": "2026-04-21",
+    "last_verified": "2026-04-24",
     "country": "Canada/US"
   }
 ]
