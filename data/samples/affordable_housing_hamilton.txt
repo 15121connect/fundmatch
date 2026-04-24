@@ -1,0 +1,42 @@
+Affordable Housing Retrofit Proposal for Hamilton
+
+Executive Summary
+This proposal outlines a comprehensive plan to retrofit existing affordable housing units in Hamilton, Ontario, to improve energy efficiency, reduce operational costs, and enhance living conditions for low-income residents. The project targets multi-unit residential buildings in underserved neighborhoods, focusing on insulation upgrades, energy-efficient windows, heating system replacements, and water conservation improvements.
+
+Background and Rationale
+Hamilton faces a growing shortage of affordable housing stock, with approximately 8,000 households on waitlists for subsidized units. Existing affordable housing buildings, many constructed in the 1970s-1990s, suffer from poor energy efficiency, high utility costs, and deferred maintenance. Data from local housing authorities indicates that average annual heating costs per unit are $1,200, compared to $800 for modern buildings—a $400 annual burden on residents already living below the poverty line.
+
+Retrofitting these units presents a dual benefit: environmental impact through reduced carbon emissions and immediate cost relief for vulnerable populations. Studies from similar projects in Toronto and Ottawa document that retrofits achieve 30-40% reductions in energy consumption, translating to $100-150 savings per household annually.
+
+Project Scope
+- Target 500 affordable housing units across 12 buildings in Hamilton's east and north ends.
+- Retrofit interventions: insulation, window replacement, HVAC system upgrades, LED lighting, smart thermostats.
+- Timeline: 24 months from funding approval.
+- Expected outcomes: 35% average energy reduction, $75,000 in cumulative resident savings over 5 years.
+
+Partnerships and Governance
+The project will operate under a collaborative governance model involving:
+- City of Hamilton (municipal housing authority and planning support)
+- Non-profit affordable housing organizations (project management and tenant engagement)
+- Local contractors and tradespeople (labor and materials)
+- McMaster University (energy auditing and baseline data collection)
+
+Budget Estimate
+Total project cost: $2.8 million
+- Materials and labor: $2.2 million
+- Energy audits and monitoring: $300,000
+- Community outreach and tenant support: $200,000
+- Project management and contingency: $100,000
+
+Requested funding: $2.0 million (70% of project cost)
+Co-funding: Municipal contributions ($500k), housing nonprofits ($300k)
+
+Evaluation and Metrics
+- Energy consumption reduction: Target 35% measured annually via utility billing data.
+- Household savings: Track average utility bill reductions per unit.
+- Tenant satisfaction: Annual survey measuring comfort improvements.
+- Carbon offset: Calculate and report greenhouse gas emissions avoided.
+- Replicability: Document lessons learned for scaling to other municipalities.
+
+Conclusion
+This retrofit initiative combines environmental stewardship with social equity, demonstrating that energy efficiency improvements can directly improve quality of life for low-income residents while advancing municipal climate commitments. The detailed planning, strong partnerships, and clear metrics position this as a model for affordable housing decarbonization across Ontario.

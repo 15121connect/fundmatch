@@ -1,0 +1,64 @@
+Zero-Emission Fleet Transition Proposal for City of Ottawa
+
+Executive Summary
+This proposal details a comprehensive transition strategy for the City of Ottawa's municipal fleet to zero-emission vehicles (ZEVs), aiming to reduce greenhouse gas emissions, improve air quality, and establish Ottawa as a leader in urban decarbonization. The initiative encompasses buses, trucks, vans, and service vehicles serving a population of over 1.4 million residents across the National Capital Region.
+
+Current State and Emissions Impact
+The City of Ottawa operates approximately 2,200 municipal vehicles including:
+- Transit buses: 650 vehicles
+- Waste management trucks: 280 vehicles
+- Service and maintenance vehicles: 1,270 vehicles
+
+Current fleet emissions contribute approximately 18% of the city's greenhouse gas footprint (57,000 tonnes CO2e annually). Fleet fuel costs average $18 million per year, representing a significant operational expense and opportunity for long-term savings through electrification.
+
+Transition Strategy
+Phase 1 (Years 1-3): Fleet Assessment and Infrastructure
+- Conduct comprehensive vehicle usage analysis to identify electrification-ready routes (e.g., municipal service routes with predictable daily distances <200 km).
+- Install 150 EV charging stations across municipal facilities, prioritizing transit depots and service yards.
+- Procure 200 electric buses and 100 electric service vehicles from qualified manufacturers.
+- Budget: $95 million (including vehicles, infrastructure, training).
+
+Phase 2 (Years 4-7): Scale-Up and Market Stabilization
+- Replace additional 300 heavy-duty trucks with hydrogen fuel cell and electric alternatives.
+- Expand charging infrastructure to 300 stations.
+- Partner with private fleet operators on shared charging stations to build economic resilience.
+- Budget: $140 million.
+
+Phase 3 (Years 8-10): Full Transition and Legacy
+- Achieve 100% zero-emission municipal fleet.
+- Decommission final internal combustion engine vehicles.
+- Share operational data, lessons learned, and best practices with other municipalities.
+- Budget: $85 million.
+
+Total Investment: $320 million over 10 years
+Estimated operational cost savings: $5.2 million annually by Year 10 (fuel savings, reduced maintenance)
+Net cost over 10 years: $170 million after accounting for fuel savings.
+
+Carbon Impact
+- Greenhouse gas reduction: 57,000 tonnes CO2e annually (year 10)
+- Cumulative CO2e avoided over 10 years: 285,000 tonnes
+- Local air quality improvement: Reduced NOx and particulate emissions in environmental justice communities
+
+Governance and Partnerships
+- City of Ottawa Transportation Services (project lead and fleet management)
+- Federal and Provincial governments (co-funding and policy alignment)
+- Private manufacturers (vehicle procurement and warranty support)
+- Labor unions (workforce transition and training programs)
+- Regional transit authorities (integrated planning for Regional Transit Commission)
+
+Risks and Mitigation
+- Vehicle range limitations: Mitigated by route analysis and strategic infrastructure placement.
+- Technology evolution: Contracts include performance guarantees and upgrade provisions.
+- Supply chain delays: Early procurement and supplier diversification.
+- Workforce transition: Comprehensive retraining programs for mechanics and operators to support vehicle technology transition.
+
+Evaluation Metrics
+- Fleet electrification percentage by year
+- Total tonnes of CO2e avoided annually
+- Average cost per vehicle (capex) and per km (opex)
+- Charging infrastructure utilization rates
+- Employee satisfaction and training completion rates
+- Public perception and community feedback on air quality improvements
+
+Conclusion
+This ZEV transition positions Ottawa as a climate leader while delivering long-term operational cost savings and improved public health outcomes. The phased approach balances financial feasibility with environmental urgency, creating a replicable model for mid-sized municipalities across North America.
