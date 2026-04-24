@@ -24,7 +24,7 @@ FundMatch demonstrates a complete data analytics workflow:
 
 ## Stack
 
-- **UI**: Streamlit ![hosted on Streamlit Community Cloud](https://ola-fundmatch.streamlit.app/)
+- **UI**: Streamlit [hosted on Streamlit Community Cloud](https://ola-fundmatch.streamlit.app/)
 - **Matching**: `sentence-transformers` (all-MiniLM-L6-v2) via Hugging Face
 - **Theme extraction & eligibility**: `facebook/bart-large-mnli` zero-shot classifier
 - **Document parsing**: `pdfplumber` (PDF), `python-docx` (DOCX)
