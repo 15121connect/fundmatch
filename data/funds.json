@@ -25,7 +25,7 @@
     "source_url": "https://www.imaginecanada.ca/grants-and-funding",
     "country": "Canada",
     "active": true,
-    "last_verified": "2026-05-04"
+    "last_verified": "2026-05-11"
   },
   {
     "id": "climate-action-corp",
@@ -41,7 +41,7 @@
     ],
     "award_min": 50000,
     "award_max": 750000,
-    "deadline": "2026-09-01",
+    "deadline": "2026-09-08",
     "eligibility": [
       "nonprofits",
       "community organizations",
@@ -51,7 +51,7 @@
     "contact_web": "climateactioncorps.org",
     "source_url": "https://climateactioncorps.org",
     "active": true,
-    "last_verified": "2026-05-04",
+    "last_verified": "2026-05-11",
     "country": "Canada"
   },
   {
@@ -97,7 +97,7 @@
     ],
     "award_min": 100000,
     "award_max": 3000000,
-    "deadline": "2026-10-31",
+    "deadline": "2026-11-07",
     "eligibility": [
       "manufacturers",
       "businesses",
@@ -107,7 +107,7 @@
     "contact_web": "energy.gov",
     "source_url": "https://www.energy.gov/manufacturing",
     "active": true,
-    "last_verified": "2026-05-04",
+    "last_verified": "2026-05-11",
     "country": "US"
   },
   {
@@ -135,7 +135,7 @@
     "source_url": "https://www.canada.ca/en/services/environment/weather/climatechange/climate-action.html",
     "country": "Canada",
     "active": true,
-    "last_verified": "2026-05-04"
+    "last_verified": "2026-05-11"
   },
   {
     "id": "eccc-lcef",
@@ -180,7 +180,7 @@
     ],
     "award_min": 25000,
     "award_max": 500000,
-    "deadline": "2026-08-02",
+    "deadline": "2026-08-09",
     "eligibility": [
       "municipalities",
       "water utilities",
@@ -191,7 +191,7 @@
     "contact_web": "epa.gov",
     "source_url": "https://www.epa.gov/waterfinancialsupport",
     "active": true,
-    "last_verified": "2026-05-04",
+    "last_verified": "2026-05-11",
     "country": "US"
   },
   {
@@ -207,7 +207,7 @@
     ],
     "award_min": 100000,
     "award_max": 1500000,
-    "deadline": "2026-10-01",
+    "deadline": "2026-10-08",
     "eligibility": [
       "nonprofits",
       "SMEs",
@@ -219,7 +219,7 @@
     "source_url": "https://www.feddevontario.gc.ca/eic/site/723.nsf/eng/home",
     "country": "Canada",
     "active": true,
-    "last_verified": "2026-05-04"
+    "last_verified": "2026-05-11"
   },
   {
     "id": "food-security-fund",
@@ -236,7 +236,7 @@
     ],
     "award_min": 50000,
     "award_max": 500000,
-    "deadline": "2026-10-31",
+    "deadline": "2026-11-07",
     "eligibility": [
       "nonprofits",
       "Indigenous organizations",
@@ -247,7 +247,7 @@
     "contact_web": "foodsecurityfund.org",
     "source_url": "https://www.foodsecurityfund.org",
     "active": true,
-    "last_verified": "2026-05-04",
+    "last_verified": "2026-05-11",
     "country": "Canada/US"
   },
   {
@@ -275,7 +275,7 @@
     "contact_web": "greenbanks.org",
     "source_url": "https://www.greenbanks.org",
     "active": true,
-    "last_verified": "2026-05-04",
+    "last_verified": "2026-05-11",
     "country": "US"
   },
   {
@@ -292,7 +292,7 @@
     ],
     "award_min": 200000,
     "award_max": 3000000,
-    "deadline": "2026-08-02",
+    "deadline": "2026-08-09",
     "eligibility": [
       "nonprofits",
       "housing organizations",
@@ -302,7 +302,7 @@
     "contact_web": "housingjustice.org",
     "source_url": "https://www.housingjustice.org",
     "active": true,
-    "last_verified": "2026-05-04",
+    "last_verified": "2026-05-11",
     "country": "US"
   },
   {
@@ -319,7 +319,7 @@
     ],
     "award_min": 50000,
     "award_max": 1000000,
-    "deadline": "2026-09-01",
+    "deadline": "2026-09-08",
     "eligibility": [
       "nonprofits",
       "SMEs",
@@ -330,7 +330,7 @@
     "contact_web": "ised-isde.gc.ca",
     "source_url": "https://www.canada.ca/en/services/business/support/funding.html",
     "active": true,
-    "last_verified": "2026-05-04",
+    "last_verified": "2026-05-11",
     "country": "Canada"
   },
   {
@@ -359,7 +359,7 @@
     "contact_web": "nrc.gc.ca/green-building",
     "source_url": "https://nrc.gc.ca/en/funding/green-building",
     "active": true,
-    "last_verified": "2026-05-04",
+    "last_verified": "2026-05-11",
     "country": "Canada"
   },
   {
@@ -377,7 +377,7 @@
     ],
     "award_min": 250000,
     "award_max": 2000000,
-    "deadline": "2026-10-31",
+    "deadline": "2026-11-07",
     "eligibility": [
       "non-profit",
       "municipal",
@@ -389,7 +389,7 @@
     "source_url": "https://www.nrc-cnrc.gc.ca/eng/solutions/infrastructure/green_buildings_fund.html",
     "country": "Canada",
     "active": true,
-    "last_verified": "2026-05-04"
+    "last_verified": "2026-05-11"
   },
   {
     "id": "nrc-ghr",
@@ -444,7 +444,7 @@
     "contact_web": "nserc-crsng.gc.ca",
     "source_url": "https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subventions/DGEP-PSEP_eng.asp",
     "active": true,
-    "last_verified": "2026-05-04",
+    "last_verified": "2026-05-11",
     "country": "Canada"
   },
   {
@@ -472,7 +472,7 @@
     "contact_web": "sshrc-crsh.gc.ca",
     "source_url": "https://www.sshrc-crsh.gc.ca/funding-financement/index-eng.aspx",
     "active": true,
-    "last_verified": "2026-05-04",
+    "last_verified": "2026-05-11",
     "country": "Canada"
   },
   {
@@ -520,7 +520,7 @@
     ],
     "award_min": 500000,
     "award_max": 10000000,
-    "deadline": "2026-10-01",
+    "deadline": "2026-10-08",
     "eligibility": [
       "transit agencies",
       "cities",
@@ -531,7 +531,7 @@
     "contact_web": "zerotransport.org",
     "source_url": "https://www.zerotransport.org",
     "active": true,
-    "last_verified": "2026-05-04",
+    "last_verified": "2026-05-11",
     "country": "US"
   },
   {
@@ -548,7 +548,7 @@
     ],
     "award_min": 50000,
     "award_max": 250000,
-    "deadline": "2026-09-01",
+    "deadline": "2026-09-08",
     "eligibility": [
       "agricultural producers",
       "rural businesses",
@@ -559,7 +559,7 @@
     "contact_web": "rd.usda.gov",
     "source_url": "https://www.rd.usda.gov/programs-services/energy-programs",
     "active": true,
-    "last_verified": "2026-05-04",
+    "last_verified": "2026-05-11",
     "country": "US"
   },
   {
@@ -575,7 +575,7 @@
     ],
     "award_min": 50000,
     "award_max": 250000,
-    "deadline": "2026-08-02",
+    "deadline": "2026-08-09",
     "eligibility": [
       "farms",
       "agricultural organizations",
@@ -586,7 +586,7 @@
     "source_url": "https://api.grants.gov/opportunities",
     "country": "US",
     "active": true,
-    "last_verified": "2026-05-04"
+    "last_verified": "2026-05-11"
   },
   {
     "id": "water-resilience-fund",
@@ -603,7 +603,7 @@
     ],
     "award_min": 100000,
     "award_max": 2000000,
-    "deadline": "2026-09-01",
+    "deadline": "2026-09-08",
     "eligibility": [
       "water utilities",
       "municipalities",
@@ -614,7 +614,7 @@
     "contact_web": "waterresiliencefund.org",
     "source_url": "https://www.waterresiliencefund.org",
     "active": true,
-    "last_verified": "2026-05-04",
+    "last_verified": "2026-05-11",
     "country": "Canada/US"
   }
 ]
